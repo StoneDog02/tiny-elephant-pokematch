@@ -1,2 +1,2 @@
-# tiny-elephant-pokematch
+# tiny-elephant
 Created with CodeSandbox
